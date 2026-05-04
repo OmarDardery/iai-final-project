@@ -1,10 +1,12 @@
 [project]
-name = "iai-final-project"
+name = "final-project"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "fastapi>=0.136.0",
-    "uvicorn>=0.45.0",
+    "mediapipe>=0.10.35",
+    "numpy>=2.4.4",
+    "opencv-python>=4.13.0.92",
+    "pynput>=1.8.1",
 ]
