@@ -8,7 +8,9 @@ dependencies = [
     "mediapipe>=0.10.35",
     "numpy>=2.4.4",
     "opencv-python>=4.13.0.92",
+    "playwright>=1.59.0",
     "pyautogui>=0.9.54",
     "pygame>=2.6.1",
     "pynput>=1.8.1",
+    "selenium>=4.43.0",
 ]
